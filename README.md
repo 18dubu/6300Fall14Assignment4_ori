@@ -37,4 +37,4 @@ converter is a basic unit converter APP for Android. It was designed to convert 
 ##AUTHOR
 
 
-Handong Ma (hma48), <handongma.work at gmail.com>
+Handong Ma (hma48), `<handongma.work at gmail.com>`
