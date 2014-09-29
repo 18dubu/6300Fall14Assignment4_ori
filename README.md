@@ -1,6 +1,5 @@
-##6300Fall14Assignment4
+##6300Fall14Assignment4   README
 =====================
-###README
 
 ####NAME
 
