@@ -54,10 +54,12 @@ public class AreaActivity extends ActionBarActivity {
 		case R.id.radio_sf:
 			if(checked)
 				txt.setText(sm2sf(currentArea));
+			break;
 		
 		case R.id.radio_sm:
 			if(checked)
 				txt.setText(sf2sm(currentArea));
+			break;
 		}
 	}
 }
