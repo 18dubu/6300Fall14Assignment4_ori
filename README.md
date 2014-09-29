@@ -1,24 +1,24 @@
-6300Fall14Assignment4
+##6300Fall14Assignment4
 =====================
-#README
+###README
 
-##NAME
+####NAME
 
 
 converter
 
-##SYNOPSIS
+####SYNOPSIS
 
-##DESCRIPTION
+####DESCRIPTION
 
 
 converter is a basic unit converter APP for Android. It was designed to convert several limited units in area, currency and distance categories. The APP was developed in Eclips IDE and used emulator for testing.
 
-##FILES
+####FILES
 
-##DIAGNOSTICS
+####DIAGNOSTICS
 
-##BUGS
+####BUGS
 
 
 * The APP will stop function when users try to change radio buttons without input number in textEditor for all sub-activities.
