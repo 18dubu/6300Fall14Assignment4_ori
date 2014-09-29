@@ -5,9 +5,12 @@
 ####NAME
 
 
-converter
+converter - basic unit converter Andoid APP for area, currency and distance
 
 ####SYNOPSIS
+
+
+The APP
 
 ####DESCRIPTION
 
@@ -15,6 +18,15 @@ converter
 converter is a basic unit converter APP for Android. It was designed to convert several limited units in area, currency and distance categories. The APP was developed in Eclips IDE and used emulator for testing.
 
 ####FILES
+
+* fragment_main.xml/MainActivity.java
+ * Main function for APP, used to access different converting activities
+* activity_area.xml/AreaActivity.java
+ * Function in converting area
+* activity_currency.xml/CurrencyActivity.java
+ * Function in converting currency
+* activity_distance.xml/DistanceActivity.java
+ * Function in converting distance
 
 ####DIAGNOSTICS
 
@@ -26,4 +38,4 @@ converter is a basic unit converter APP for Android. It was designed to convert 
 ##AUTHOR
 
 
-Handong Ma (hma48), handongma.work at gmail.com
+Handong Ma (hma48), <handongma.work at gmail.com>
