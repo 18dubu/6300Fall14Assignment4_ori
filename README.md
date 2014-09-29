@@ -31,6 +31,11 @@ converter is a basic unit converter APP for Android. It was designed to convert 
 * activity_distance.xml/DistanceActivity.java
  * Function in converting distance
 
+####TROUBLESHOOTING
+
+#####Importing the Project to Eclipse
+
+* add supporting libraries (https://developer.android.com/tools/support-library/setup.html), section: Adding libraries with resources
 
 ####BUGS
 
