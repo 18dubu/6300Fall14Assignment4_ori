@@ -5,7 +5,9 @@
 
 
 converter - basic unit converter Andoid APP for area, currency and distance
+
 Version: 1.0
+
 Time of release: 09/29/2014
 
 ####SYNOPSIS
